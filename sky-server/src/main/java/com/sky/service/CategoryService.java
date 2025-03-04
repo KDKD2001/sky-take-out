@@ -7,7 +7,6 @@ import com.sky.result.PageResult;
 import java.util.List;
 
 public interface CategoryService {
-
     /**
      * 新增分类
      * @param categoryDTO
