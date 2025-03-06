@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tLdxgYNp9h63VkpRfpN
     access-key-secret: qWEn764gWMRpB8ehsA681aCQj2zdrl
     bucket-name: wkd-web01
+  redis:
+    host: localhost
+    port: 6379
+    password: 123
+    database: 10
